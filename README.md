@@ -7,7 +7,7 @@ Pig Latin
 3. For words beginning with "qu," move the "qu" to the end of the word and add ay. Thus "question" becomes "estionquay".  
 4. For words that begin with consonants, move the leading consonant(s) to the end of the word and add "ay." Thus, "ball" becomes "allbay"; "button" becomes "uttonbay"; "star" becomes "arstay"; "three" becomes "eethray";  
 
-Note that this assignment does not use graphics. It is similar to Old MacDonald and Google Billboard. It uses a Master branch, not gh-pages
+Note that this assignment does not use graphics. Just like Old MacDonald and the Google Billboard, you will push to the master branch, not gh-pages
 
 Suggested steps to complete this assignment
 -------------------------------------------
@@ -25,7 +25,7 @@ eagleay
 tryay  
 3. You need to finish the two methods `findFirstVowel` and `pigLatin` so that the program will correctly translate the words into Pig Latin.
 4. Start by completing the custom codingbat problem [`int findFirstVowel(String sWord)`](http://codingbat.com/prob/p200508?parent=/home/simona1@sfusd.edu). It returns the position of the first 'a', 'e', 'i', 'o' or 'u'. If the word contains no vowels (like "try"), the method should return -1.
-5. No, modify the `pigLatin()` method to implement all four rules of pig latin shown above. Rule 1 has already been implemented for you. When you've implemented all four rules correctly, the output should be:
+5. Now, modify the `pigLatin()` method to implement all four rules of pig latin shown above. Rule 1 has already been implemented for you. When you've implemented all four rules correctly, the output should be:
 eastbay  
 oughday  
 appyhay  
