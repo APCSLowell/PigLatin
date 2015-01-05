@@ -1,6 +1,6 @@
 Pig Latin
 ==================
-[Pig Latin](http://en.wikipedia.org/wiki/Pig_Latin) is a language game where words are "translated" according to the following rules:
+[Pig Latin](http://en.wikipedia.org/wiki/Pig_Latin) is a language game where words are "translated" according to the following rules:  
 1. For words that are all consonants, simply add "ay" to the end of the word. Thus, "try" becomes "tryay".  
 2. For words that begin with vowels, simply add "way" to the end of the word. Thus, "a" becomes "away"; "at" becomes "atway"; "ermine" becomes "ermineway."  
 3. For words beginning with "qu," move the "qu" to the end of the word and add ay. Thus "question" becomes "estionquay".  
