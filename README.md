@@ -13,7 +13,7 @@ Suggested steps to complete this assignment
 -------------------------------------------
 
 1. Fork and clone down this repository.
-2. Run the program. You should see the following output:
+2. Run the program. You should see the following output:  
 there are 8 lines  
 beastay  
 doughay  
