@@ -25,7 +25,7 @@ eagleay
 tryay  
 3. You need to finish the two methods `findFirstVowel` and `pigLatin` so that the program will correctly translate the words into Pig Latin.
 4. Start by completing the custom codingbat problem [`int findFirstVowel(String sWord)`](http://codingbat.com/prob/p200508?parent=/home/simona1@sfusd.edu). It returns the position of the first 'a', 'e', 'i', 'o' or 'u'. If the word contains no vowels (like "try"), the method should return -1.
-5. Now, modify the `pigLatin()` method to implement all four rules of pig latin shown above. Rule 1 has already been implemented for you. When you've implemented all four rules correctly, the output should be:
+5. Now, modify the `pigLatin()` method to implement all four rules of pig latin shown above. Rule 1 has already been implemented for you. When you've implemented all four rules correctly, the output should be:  
 eastbay  
 oughday  
 appyhay  
@@ -44,25 +44,25 @@ If you have extra time, you could try to modify the program to convert entire pa
 The Lowell Hymn:
 ----------------
 
-With heads bared we stand, 
-In tribute to thee, 
-Our Alma-Mater Lowell, 
-All true to thee we'll be. 
-
-Unfurled red and white, 
-None shall thee decry, 
-They name we love, 
-Oh Lowell High.
+With heads bared we stand,  
+In tribute to thee,   
+Our Alma-Mater Lowell,   
+All true to thee we'll be.   
+  
+Unfurled red and white,   
+None shall thee decry,   
+They name we love,   
+Oh Lowell High.  
 
 The Lowell Hymn in Pig Latin:
 -----------------------------
 
-Ithway eadshay aredbay eway andstay, 
-Inway ibutetray otay eethay, 
-Ourway Alma-Materway Owelllay, 
-Allway uetray otay eethay e'llway ebay. 
+Ithway eadshay aredbay eway andstay,  
+Inway ibutetray otay eethay,  
+Ourway Alma-Materway Owelllay,  
+Allway uetray otay eethay e'llway ebay.  
 
-Unfurledway edray andway itewhay, 
-Onenay allshay eethay ecryday, 
-Eythay amenay eway ovelay, 
-Ohway Owelllay Ighhay.
+Unfurledway edray andway itewhay,  
+Onenay allshay eethay ecryday,  
+Eythay amenay eway ovelay,  
+Ohway Owelllay Ighhay.  
