@@ -41,7 +41,7 @@ Comparing letters of a String
 
 There are two ways to compare one letter of a String, `charAt` and `substring`:  
 `sWord.charAt(0) == 'a'` will test if the first letter of `sWord` is an `'a'`
-`sWord.substring(0,1).equals('a')` will also test if the first letter of `sWord` is an `'a'`
+`sWord.substring(0,1).equals("a")` will also test if the first letter of `sWord` is an `'a'`
 
 
 Extensions
