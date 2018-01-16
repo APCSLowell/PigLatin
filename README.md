@@ -32,7 +32,7 @@ staray
 threeay  
 eagleay  
 tryay  
-4. You need to finish the two methods `findFirstVowel` and `pigLatin` so that the program will correctly translate the words into Pig Latin. You can use your solution from codingbat problem to complete [`int findFirstVowel(String sWord)`](http://codingbat.com/prob/p200508?parent=/home/simona1@sfusd.edu). It returns the position of the first 'a', 'e', 'i', 'o' or 'u'. If the word contains no vowels (like "try"), the method should return -1.
+4. You need to finish the two methods `findFirstVowel` and `pigLatin` so that the program will correctly translate the words into Pig Latin. You can use your solution from the codingbat problem to complete [`int findFirstVowel(String sWord)`](http://codingbat.com/prob/p200508?parent=/home/simona1@sfusd.edu). It returns the position of the first 'a', 'e', 'i', 'o' or 'u'. If the word contains no vowels (like "try"), the method should return -1.
 5. Now, modify the `pigLatin()` method to implement all four rules of pig latin shown above. Rule 1 has already been implemented for you. When you've implemented all four rules correctly, the output should be:  
 eastbay  
 oughday  
