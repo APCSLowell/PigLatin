@@ -12,9 +12,10 @@ Note that this assignment does not use graphics. Just like Old MacDonald and the
 Comparing letters of a `String`
 -----------------------------
 
-There are two ways to compare one letter of a String, `charAt` and `substring`:  
-`sWord.charAt(0) == 'a'` will test if the first letter of `sWord` is an `'a'`
-`sWord.substring(0,1).equals("a")` will also test if the first letter of `sWord` is an `'a'`
+There are at least two ways to compare one letter of a String, `substring` and `charAt`:  
+`sWord.substring(0,1).equals("a")` will test if the first letter of `sWord` is an `'a'`   
+`sWord.charAt(0) == 'a'` will also test if the first letter of `sWord` is an `'a'`
+
 
 Suggested steps to complete this assignment
 -------------------------------------------
