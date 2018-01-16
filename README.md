@@ -12,7 +12,7 @@ Note that this assignment does not use graphics. Just like Old MacDonald and the
 Comparing letters of a `String`
 -----------------------------
 
-For this assignment you will need to check the letters of a `String` one letter at a time for vowels. There are at least two ways to compare one letter of a String, `substring` and `charAt`:  
+For this assignment you will need to test the letters of a `String` one letter at a time for vowels. There are at least two ways to access one letter of a `String`, `substring` and `charAt`:  
 * `sWord.substring(0,1).equals("a")` will test if the first letter of `sWord` is an `'a'`   
 * `sWord.charAt(0) == 'a'` will also test if the first letter of `sWord` is an `'a'`
 
