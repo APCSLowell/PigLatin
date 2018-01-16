@@ -9,12 +9,19 @@ Pig Latin
 
 Note that this assignment does not use graphics. Just like Old MacDonald and the Google Billboard, you will push to the master branch, not gh-pages
 
+Comparing letters of a `String`
+-----------------------------
+
+There are two ways to compare one letter of a String, `charAt` and `substring`:  
+`sWord.charAt(0) == 'a'` will test if the first letter of `sWord` is an `'a'`
+`sWord.substring(0,1).equals("a")` will also test if the first letter of `sWord` is an `'a'`
+
 Suggested steps to complete this assignment
 -------------------------------------------
 
-1. Complete the following custom codingbat problems: [`findFirstA()`](http://codingbat.com/prob/p279261?parent=/home/simona1@sfusd.edu), [`findFirstAorB()`](http://codingbat.com/prob/p207840?parent=/home/simona1@sfusd.edu), [`findFirstVowel()`](http://codingbat.com/prob/p200508?parent=/home/simona1@sfusd.edu). Don't forget to log in to codingbat!
-1. Fork and clone down this repository.
-2. Run the program. You should see the following output:  
+1. Complete the following custom codingbat problems: [`findFirstA()`](http://codingbat.com/prob/p279261?parent=/home/simona1@sfusd.edu), [`findFirstAorB()`](http://codingbat.com/prob/p207840?parent=/home/simona1@sfusd.edu), [`findFirstVowel()`](http://codingbat.com/prob/p200508?parent=/home/simona1@sfusd.edu). Don't forget to log in to codingbat! 
+2. Fork and clone down this repository.
+3. Run the program. You should see the following output:  
 there are 8 lines  
 beastay  
 doughay  
@@ -24,8 +31,7 @@ staray
 threeay  
 eagleay  
 tryay  
-3. You need to finish the two methods `findFirstVowel` and `pigLatin` so that the program will correctly translate the words into Pig Latin.
-4. You can use your solution from codingbat problem to complete [`int findFirstVowel(String sWord)`](http://codingbat.com/prob/p200508?parent=/home/simona1@sfusd.edu). It returns the position of the first 'a', 'e', 'i', 'o' or 'u'. If the word contains no vowels (like "try"), the method should return -1.
+4. You need to finish the two methods `findFirstVowel` and `pigLatin` so that the program will correctly translate the words into Pig Latin. You can use your solution from codingbat problem to complete [`int findFirstVowel(String sWord)`](http://codingbat.com/prob/p200508?parent=/home/simona1@sfusd.edu). It returns the position of the first 'a', 'e', 'i', 'o' or 'u'. If the word contains no vowels (like "try"), the method should return -1.
 5. Now, modify the `pigLatin()` method to implement all four rules of pig latin shown above. Rule 1 has already been implemented for you. When you've implemented all four rules correctly, the output should be:  
 eastbay  
 oughday  
@@ -36,14 +42,6 @@ eethray
 eagleway  
 tryay  
 6. Submit the URL of your finished PigLatin repository to the school loop drop box.
-
-Comparing letters of a String
------------------------------
-
-There are two ways to compare one letter of a String, `charAt` and `substring`:  
-`sWord.charAt(0) == 'a'` will test if the first letter of `sWord` is an `'a'`
-`sWord.substring(0,1).equals("a")` will also test if the first letter of `sWord` is an `'a'`
-
 
 Extensions
 ----------
