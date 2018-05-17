@@ -7,8 +7,6 @@ Pig Latin
 3. For words beginning with "qu," move the "qu" to the end of the word and add ay. Thus "question" becomes "estionquay".  
 4. For words that begin with consonants, move the leading consonant(s) to the end of the word and add "ay." Thus, "ball" becomes "allbay"; "button" becomes "uttonbay"; "star" becomes "arstay"; "three" becomes "eethray";  
 
-Note that this assignment does not use graphics. Just like Old MacDonald and the Google Billboard, you will push to the master branch, not gh-pages
-
 Comparing letters of a `String`
 -----------------------------
 
