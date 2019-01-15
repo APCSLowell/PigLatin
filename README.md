@@ -40,7 +40,7 @@ arstay
 eethray  
 eagleway  
 tryay  
-6. Submit the URL of your finished PigLatin repository to the school loop drop box.
+6. Submit the URL of your finished PigLatin repository to Google Classroom.
 
 Extensions
 ----------
