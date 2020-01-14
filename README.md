@@ -40,7 +40,7 @@ arstay
 eethray  
 eagleway  
 tryay  
-6. Since there is no website for this assignment, submit the URL of your finished PigLatin repository to Google Classroom. The url will have the form ```http://github.com/ your github username /PigLatin```
+6. Since there is no website for this assignment, submit the URL of your finished PigLatin repository to Google Classroom. The URL will have the form ```http://github.com/ your github username /PigLatin```
 
 Extensions
 ----------
