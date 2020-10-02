@@ -1,0 +1,32 @@
+n="hello how are you"
+print(n)
+a=[n]
+def convert(lst): 
+    return (lst[0].split()) 
+t=convert(a)
+print( t) 
+
+
+print(len(t))
+
+def remove_first_letter(test_str):
+  new_str = "" 
+  
+  for b in range(len(test_str)): 
+    if b != 0: 
+      new_str = new_str + test_str[b]  
+    else:
+      continue
+    
+  return new_str 
+  
+
+gh=[""]*len(t)      
+for i in range(0,len(t)):
+  m=t[i]+t[i][0]
+  
+  t[i]=m+"ay"
+  gh[i]=remove_first_letter(t[i])
+  
+
+print(gh)
