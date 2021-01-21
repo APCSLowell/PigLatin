@@ -19,7 +19,7 @@ Suggested steps to complete this assignment
 -------------------------------------------
 
 1. Complete the following custom codingbat problems: [`findFirstA()`](http://codingbat.com/prob/p279261?parent=/home/simona1@sfusd.edu), [`findFirstAorB()`](http://codingbat.com/prob/p207840?parent=/home/simona1@sfusd.edu), [`findFirstVowel()`](http://codingbat.com/prob/p200508?parent=/home/simona1@sfusd.edu). Don't forget to log in to codingbat! 
-2. Fork and clone down this repository. (If you are working online with a Chromebook, just copy and paste the code and change line 3 to `String[] lines = {"beast","dough","happy","question","star","three","eagle","try"};`)
+2. Fork and clone down this repository. (If you are working online with a Chromebook fork this [Pig Latin project on repl.it](https://repl.it/@MrSimonLowell/PigLatinDemo#Sketch.java), or just copy and paste the code and change line 3 to `String[] lines = {"beast","dough","happy","question","star","three","eagle","try"};`)
 3. Run the program. You should see the following (incorrect) output:  
 there are 8 lines  
 beastay  
